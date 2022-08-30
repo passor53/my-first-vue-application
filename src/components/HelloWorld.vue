@@ -106,7 +106,7 @@ export default {
 
       this.tourjeu = this.tourjeu + 1;
       this.table.find(val == val)
-      val = Array.splice(val, 1, 'X')
+      val = Array.splice(val, 1, 'X') // et je suis bloqué ici pour le moment !!!
     }
   }
 
